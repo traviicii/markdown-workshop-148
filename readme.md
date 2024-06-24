@@ -2,7 +2,7 @@
 
 ## Basic Markdown syntax {#top}
 
-### 1. Header
+### 1. Headers
 
 There are 6 sizes of header denoted by 1-6 consecutive # symbols
 
